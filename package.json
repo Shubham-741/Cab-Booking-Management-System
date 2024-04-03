@@ -1,0 +1,21 @@
+{
+  "name": "cab-booking-management-system",
+  "version": "1.0.0",
+  "description": "Cab Booking Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cab",
+    "booking",
+    "management",
+    "system",
+    "transportation"
+  ],
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
