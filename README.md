@@ -2,7 +2,9 @@
 
 **"Cab Booking Management System: Node.js web app for booking cabs, calculating shortest paths, and estimating costs."**
 
-## Overview (https://github.com/Shubham-741/Cab-Booking-Management-System/blob/main/CabBookingWebpage.png)
+## Overview 
+![CabBookingWebpage](https://github.com/Shubham-741/Cab-Booking-Management-System/assets/143842645/83c5d5bd-12dc-4a38-a34f-ccd9a30bee16)
+
 The Cab Booking Management System is a web application designed to facilitate the booking of cabs for customers. It provides features such as booking cabs, estimating costs, and displaying available cab categories.
 
 ## Features
