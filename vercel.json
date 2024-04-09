@@ -1,7 +1,0 @@
-{
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "dest": "http://localhost:3000/$1" }
-    ]
-  }
-  
